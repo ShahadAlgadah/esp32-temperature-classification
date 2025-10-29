@@ -93,6 +93,7 @@ You can try this project directly in the Wokwi simulator:
 ## 👤 Author
 
 **Shahad Algadah**  
-GitHub: [@qshahad](https://github.com/qshahad)
+GitHub:[GitHub](https://github.com/ShahadAlgadah)
+
 
 
