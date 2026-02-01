@@ -1,8 +1,19 @@
-# ESP32_ILI9341
-Manual temperature input display using ESP32 + ILI9341 + LEDs
-# Patient Temperature Classification with ESP32 + ILI9341
+#Patient Temperature Classification System  
+(ESP32 + ILI9341 | Embedded Systems Project)
 
-This project uses an **ESP32** microcontroller and an **ILI9341 TFT display** to classify patient temperatures based on manual input via the Serial Monitor. It visually presents the data in a color-coded table and activates LEDs based on the input temperature.
+
+
+This project demonstrates how embedded systems can be used for real-time health monitoring and decision-based actuation.
+It uses an ESP32 microcontroller and an ILI9341 TFT display to classify patient temperatures based on manual input via the Serial Monitor, 
+presenting data visually in a color-coded table and activating LEDs accordingly.
+
+
+---
+
+🔹 Project Focus Areas:
+- Embedded Systems
+- IoT-based monitoring
+- Human-centered system design
 
 ---
 
@@ -94,6 +105,7 @@ You can try this project directly in the Wokwi simulator:
 
 **Shahad Algadah**  
 GitHub:[GitHub](https://github.com/ShahadAlgadah)
+LinkedIn:[LinkedIn](https://www.linkedin.com/in/shahad-algadah-841509337/)
 
 
 
